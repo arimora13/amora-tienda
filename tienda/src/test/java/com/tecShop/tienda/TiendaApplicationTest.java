@@ -5,12 +5,13 @@
 package com.tecShop.tienda;
 
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-/**
+/*
  *
  * @author Arianna Mora
  */
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class TiendaApplicationTests {
