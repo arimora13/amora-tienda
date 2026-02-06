@@ -13,9 +13,10 @@ import org.springframework.boot.test.context.SpringBootTest;
  */
 
 @SpringBootTest
-public class TiendaApplicationTest {
-   @Test
+class TiendaApplicationTests {
+
+	@Test
 	void contextLoads() {
 	}
- 
+
 }
