@@ -14,7 +14,7 @@ import org.thymeleaf.templatemode.TemplateMode;
 @Configuration
 public class ProjectConfig implements WebMvcConfigurer {
 
-    /* Los siguiente métodos son para implementar el tema de seguridad dentro del proyecto */
+    /* Los siguiente métodos son para implementar el tema de seguridad dentro del proyecto airnnamora */
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
         registry.addViewController("/").setViewName("index");
